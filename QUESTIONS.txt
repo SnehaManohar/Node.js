@@ -1,0 +1,22 @@
+1)Using Node.js and Mongo, develop a program to accept USN,Name, Subject_code, CIE marks and store the information in a database and display students whose CIE<20.
+
+2)Using Node.js and Mongo, develop a program to accept ‘Student’ information viz. Name,USN, Dept, Grade from a web page and store the information in a database and update Student grade with the name specified by the user.
+
+3)Write a node.js program that connects to the mongo database called ‘Movies’. Create a collection called ‘HindiFilms’ with fields ‘Name’, ‘Budget’, ‘Hero’ and ‘Heroine’and display the films whose budget > 5000000.
+
+4)Write a node.js program using Express framework to display top 5 Engineering Colleges in Karnataka and their branch details. Display with proper format.
+
+5)Using Node.js and Mongo, create a database called ‘Library ’. Create a collection called ‘books ’ with fields ‘Name’, ‘title ’, ‘author’, subject and ‘year’. Accept these fields information from a web page and to store it in the database. Delete the book information which does not belongs to 'cse' subject.
+
+6)Write a node.js program using Express framework accept USN, Name, branch and Marks Validate name and marks fields such that Name should not empty and Marks should be an integer. (Note: Use Express Validator)
+
+7)Using node.js and Mongo create a database called ‘FinalYears’. Create a collection ‘Student’ with ‘USN’,’Name’ and ‘Company_name’ (by campus selection) as fields. Write a node.js program to insert and Count the number of students who are selected for 'Infosys' and display all the information on the webpage.
+
+8)Write a node.js program using Express framework to accept user name, Branch, Semester,from web page and display the information as below
+	Handle both get and post methods 
+	Branch should be underlined
+	Name should be in bold face.
+
+9)Write a node.js program using Express framework to display different tourist places of India with different background color (Note: Use Routing, Min: 3 states)
+
+10)Using Node.js and Mongo, create a database called ‘College’. Create a collection called 'Department’ with fields ‘ID’, ‘Title’, ‘Name’, and ‘branch’. Accept these fields information from a web page and to store it in the database. Display all the faculty who belongs "CSE" branch and Title is "PROFESSOR".
