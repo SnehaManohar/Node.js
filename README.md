@@ -8,7 +8,9 @@ Database applications using Node.js and Mongo
 
 
 3)to run: i)node <name of index file>
+
          ii)open localhost:5000
+         
         iii)navigate between pages as required
         
         
