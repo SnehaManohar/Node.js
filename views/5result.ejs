@@ -1,0 +1,32 @@
+<html>
+<body>
+<h1>Search results for <%=name%></h1>
+<table border='1px'>
+<tr>
+	<th>
+		NAME
+	</th>
+	<th>
+		AUTHOR
+	</th>
+	<th>
+		SUBJECT
+	</th>
+</tr>
+<% for(var i=0;i<data.length;i++){%>
+<tr>
+<td>
+	<%=data[i].name%>
+</td>
+<td>
+	<%=data[i].author%>
+</td>
+<td>
+	<%=data[i].subject%>
+</td>
+</tr>
+<%}%>
+</table>
+<a href='/'>HOME</a>
+</body>
+</html>
