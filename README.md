@@ -7,9 +7,9 @@ Database applications using Node.js and Mongo
 2)ejs files should be within the views folder.
 
 
-3)to run: i)node <name of index file>
+3)to run: i)node name of index file
 
-         ii)open localhost:5000
+         ii)open localhost:5000  
          
         iii)navigate between pages as required
         
